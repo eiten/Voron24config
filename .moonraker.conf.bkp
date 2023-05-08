@@ -13,6 +13,8 @@ cors_domains =
 	http://my.mainsail.xyz
 	http://*.local
 	http://*.lan
+	http://*.iten.pro
+	https://*.iten.pro
 trusted_clients = 
 	10.0.0.0/8
 	127.0.0.0/8
