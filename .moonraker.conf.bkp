@@ -24,6 +24,7 @@ trusted_clients =
 	FE80::/10
 	::1/128
 	2001:470:26::/64
+	fd00::/8
 
 [octoprint_compat]
 
